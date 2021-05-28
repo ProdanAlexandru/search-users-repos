@@ -1,0 +1,72 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.title-repos{
+    margin-top: 100px;
+    padding:10px;
+    text-align:center;
+    justify-content: center;
+
+}
+
+.searchArea{
+    padding:10px;
+    text-align:center;
+    display: flex;
+    /* background-color: black; */
+    justify-content: center;
+}
+
+.formArea{
+    text-align:center;
+    margin: auto;
+    /* background-color:green; */
+    width: 500px;
+}
+
+.searchInput{
+    width: 100%;
+    margin: 20px!important;
+}
+
+.searchBtn{
+    margin: 15px!important;
+    width: px;
+}
+
+.reposArea{
+    justify-content: center;
+    margin: auto;
+    width: 100%;
+
+}
+
+.repoItem{
+    padding:5px;
+    font-size:16px;
+    list-style-type: none;
+    text-align: center;
+    text-decoration: none;
+}
+
+.linkItem{
+    text-decoration: none;
+    color:black;
+}
+.linkItem:hover{
+    text-decoration: underline;
+    font-size:150%;
+    font-family:monospace;
+}
+
+.ulList{
+    padding:0;
+    margin:0;
+}
+
+.backBtn{
+    margin-top:20px!important;
+}
